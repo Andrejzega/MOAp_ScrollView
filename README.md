@@ -15,5 +15,6 @@ Aplikacija vsebuje naslednje elemente uporabniškega vmesnika:
 Vsa besedila v aplikaciji so shranjena v `strings.xml`.
 
 ## Posnetki aplikacije
-
-![Začetni prikaz članka](screenshot_top.png) ![Drsenje do dna besedila](screenshot_scrolled.png) ![Prikaz obvestila Toast](screenshot_toast.png)
+| | | |
+|---|---|---|
+|![Začetni prikaz članka](screenshot_top.png)|![Drsenje do dna besedila](screenshot_scrolled.png)|![Prikaz obvestila Toast](screenshot_toast.png)|
